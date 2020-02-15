@@ -7,3 +7,5 @@ Recurrent Neural Networks (RNN) are very effective for Natural Language Processi
 
 ## Project 2: Character level language model - Dinosaurus Island
 To create new dinosaur names, I build a character level language model to generate new names. My algorithm will learn the different name patterns, and randomly generate new names. I begin by loading in some functions provided in rnn_utils. Specifically, you have access to functions such as rnn_forward and rnn_backward which are equivalent to those I've implemented in the Project 1.
+
+## Project 3: Implement a model that uses an LSTM to generate music

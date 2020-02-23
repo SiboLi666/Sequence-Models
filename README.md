@@ -9,3 +9,10 @@ Recurrent Neural Networks (RNN) are very effective for Natural Language Processi
 To create new dinosaur names, I build a character level language model to generate new names. My algorithm will learn the different name patterns, and randomly generate new names. I begin by loading in some functions provided in rnn_utils. Specifically, you have access to functions such as rnn_forward and rnn_backward which are equivalent to those I've implemented in the Project 1.
 
 ## Project 3: Implement a model that uses an LSTM to generate music
+
+## Project 4: Operations on word vectors
+- Load pre-trained word vectors, and measure similarity using cosine similarity
+- Use word embeddings to solve word analogy problems such as Man is to Woman as King is to __.
+- Modify word embeddings to reduce their gender bias
+
+

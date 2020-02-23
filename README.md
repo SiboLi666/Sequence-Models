@@ -15,4 +15,8 @@ To create new dinosaur names, I build a character level language model to genera
 - Use word embeddings to solve word analogy problems such as Man is to Woman as King is to __.
 - Modify word embeddings to reduce their gender bias
 
+## Project 5: Emojify
+- Start with a baseline model (Emojifier-V1) using word embeddings.
+- Then build a more sophisticated model (Emojifier-V2) that further incorporates an LSTM.
+
 

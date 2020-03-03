@@ -19,4 +19,6 @@ To create new dinosaur names, I build a character level language model to genera
 - Start with a baseline model (Emojifier-V1) using word embeddings.
 - Then build a more sophisticated model (Emojifier-V2) that further incorporates an LSTM.
 
+## Project 6
+- Build a Neural Machine Translation (NMT) model to translate human-readable dates ("25th of June, 2009") into machine-readable dates ("2009-06-25").
 

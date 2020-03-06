@@ -22,3 +22,6 @@ To create new dinosaur names, I build a character level language model to genera
 ## Project 6
 - Build a Neural Machine Translation (NMT) model to translate human-readable dates ("25th of June, 2009") into machine-readable dates ("2009-06-25").
 
+## Project 7
+- Build a Neural Machine Translation (NMT) model to translate human-readable dates ("25th of June, 2009") into machine-readable dates ("2009-06-25").
+- Do this using an attention model, one of the most sophisticated sequence-to-sequence models.
